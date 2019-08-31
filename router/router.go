@@ -10,7 +10,6 @@ import (
 	"github.com/svranesevic/charlyedu/weatherservice"
 	"github.com/svranesevic/charlyedu/windspeedservice"
 
-	//"github.com/svranesevic/charlyedu/handler"
 	"net/http"
 )
 
